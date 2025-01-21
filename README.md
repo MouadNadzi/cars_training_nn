@@ -26,11 +26,11 @@ The project simulates autonomous vehicles learning to navigate through different
 - **Customizable Interface**:  
   Adjust simulation parameters in real-time to fine-tune the learning process.  
 
-
+## 🎥 Demo  
 
 https://github.com/user-attachments/assets/0d7c32f2-d7d7-438a-b28f-13e006f503bb
 
 
 
-## 🎥 Demo  
+
 
