@@ -30,7 +30,10 @@ The project simulates autonomous vehicles learning to navigate through different
 
 https://github.com/user-attachments/assets/0d7c32f2-d7d7-438a-b28f-13e006f503bb
 
-
-
-
+## 🤝 Contribution
+- NADZI Mouad
+- KELLALI Saad
+- CHKIRIDA Asma
+- BAAKRIM Mohamed Almahdy
+- BENSALEK Abderrahman
 
